@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 26 09:04:36 2021
 
-@author: Harald Nils
+@author: Harald Hans
 """
 
 class flervalgspørsmål:
